@@ -4,3 +4,8 @@ compatibility_date = "2025-01-27"
 [assets]
 directory = "./"
 html_handling = "auto-trailing-slash"
+
+[vars]
+META_TITLE = "My Links"
+YOUTUBE_URL = "https://youtube.com"
+HA_URL = "ha.mikesell.casa"
